@@ -30,3 +30,9 @@ This repository contains a **from-scratch BERT implementation** in PyTorch, supp
 git clone https://github.com/YijiaoCao/Custom-BERT-PyTorch.git
 cd Custom-BERT-PyTorch
 pip install -r requirements.txt
+
+# Usage
+Set hyperparameters in hyp() function.
+Prepare datasets for different tasks (MLM, NSP, QA, etc.).
+Train / fine-tune models:
+
