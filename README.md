@@ -27,6 +27,6 @@ This repository contains a **from-scratch BERT implementation** in PyTorch, supp
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/Custom-BERT-PyTorch.git
+git clone https://github.com/YijiaoCao/Custom-BERT-PyTorch.git
 cd Custom-BERT-PyTorch
 pip install -r requirements.txt
