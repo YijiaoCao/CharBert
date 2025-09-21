@@ -1,4 +1,4 @@
-# CharBert - Custom Character-level BERT Implementation From Scratch (2 pretraining tasks and 5 downstream tasks) in PyTorch
+# CharBert - Custom Character-level BERT Implementation From Scratch (2 pretraining tasks and 5 downstream tasks) by PyTorch
 
 This repository contains a **from-scratch BERT implementation** in PyTorch, supporting multiple NLP tasks and **parameter-efficient fine-tuning with LoRA**. It is designed for experimentation, research, and learning purposes.
 
