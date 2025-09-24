@@ -1,0 +1,96 @@
+none, equals, belongs to, has, causes, results from, uses, be used by
+The Buddha taught that ◟ignorance◞ gives rise to ⌞suffering⌟.	4
+The ◟eye◞ belongs to ⌞the sense faculties⌟ described in the sutra.	2
+◟Ananda◞ is equal in devotion to ⌞the disciples⌟ who seek liberation.	1
+The ◟monk◞ has a ⌞robe⌟ for dwelling in the Dharma.	3
+◟Attachment◞ results from ⌞desire⌟, leading to bondage.	5
+The ◟bodhisattva◞ uses ⌞compassion⌟ to guide sentient beings.	6
+The ◟sutra◞ is be used by ⌞disciples⌟ for cultivation.	7
+The Buddha said that ◟delusion◞ and ⌞awakening⌟ are opposites.	0
+◟Hearing◞ equals ⌞sound perception⌟ in the teaching of faculties.	1
+◟Consciousness◞ belongs to ⌞the six sense processes⌟ explained in the text.	2
+The ◟body◞ has ⌞organs⌟ that serve the senses.	3
+◟Desire◞ causes ⌞rebirth⌟ in the cycle of samsara.	4
+◟Wisdom◞ results from ⌞meditation⌟ and discipline.	5
+The ◟bodhisattva◞ uses ⌞skillful means⌟ to teach beings.	6
+The ◟Dharma words◞ are be used by ⌞the assembly⌟ for guidance.	7
+◟Ananda◞ and ⌞the Buddha⌟ are not equals in enlightenment.	0
+◟Perception◞ equals ⌞thought contact⌟ as taught in the text.	1
+The ◟worldly body◞ belongs to ⌞the five skandhas⌟.	2
+The ◟disciple◞ has ⌞faith⌟ in the Tathagata’s words.	3
+◟Ignorance◞ causes ⌞delusion⌟ to arise.	4
+◟Liberation◞ results from ⌞practice⌟ and right view.	5
+The ◟bodhisattva◞ uses ⌞vows⌟ to cross over beings.	6
+The ◟precepts◞ are be used by ⌞monastics⌟ in training.	7
+◟Form◞ and ⌞emptiness⌟ are taught as not separate.	0
+◟Awareness◞ equals ⌞conscious knowing⌟ in the sutra.	1
+◟The ear faculty◞ belongs to ⌞the six roots⌟.	2
+◟Ananda◞ has ⌞questions⌟ for the Buddha.	3
+◟Karma◞ causes ⌞rebirth⌟ in cyclic existence.	4
+◟Compassion◞ results from ⌞wisdom⌟ joined with practice.	5
+The ◟practitioner◞ uses ⌞meditation⌟ to quiet the mind.	6
+The ◟sutra◞ is be used by ⌞teachers⌟ to transmit Dharma.	7
+The ◟Buddha’s silence◞ and ⌞Ananda’s inquiry⌟ are not the same.	0
+◟Meditation◞ equals ⌞stilling of thought⌟ in the sutra.	1
+The ◟aggregate of form◞ belongs to ⌞the skandhas⌟.	2
+The ◟assembly◞ has ⌞teachings⌟ bestowed by the Tathagata.	3
+◟Attachment◞ causes ⌞fear⌟ in sentient beings.	4
+◟Peace◞ results from ⌞detachment⌟.	5
+The ◟sage◞ uses ⌞silence⌟ to teach.	6
+The ◟Dharma seals◞ are be used by ⌞bodhisattvas⌟ for guidance.	7
+◟Worldly pleasure◞ and ⌞nirvana⌟ are not equal.	0
+◟Speech◞ equals ⌞sound expression⌟.	1
+◟The realm of sight◞ belongs to ⌞form objects⌟.	2
+The ◟mind◞ has ⌞thoughts⌟ unceasingly.	3
+◟Desire◞ causes ⌞bondage⌟.	4
+◟Freedom◞ results from ⌞release of craving⌟.	5
+The ◟bodhisattva◞ uses ⌞prajna wisdom⌟.	6
+The ◟chants◞ are be used by ⌞devotees⌟.	7
+◟Darkness◞ and ⌞light⌟ are not identical.	0
+◟Names◞ equal ⌞labels⌟ in the teachings.	1
+◟Sound◞ belongs to ⌞the ear faculty⌟.	2
+The ◟teacher◞ has ⌞students⌟.	3
+◟Ignorance◞ causes ⌞wandering⌟.	4
+◟Stillness◞ results from ⌞discipline⌟.	5
+The ◟practitioner◞ uses ⌞mindfulness⌟.	6
+The ◟sutra verses◞ are be used by ⌞sangha⌟.	7
+◟Form◞ and ⌞color⌟ are not the same.	0
+◟Mind essence◞ equals ⌞true awareness⌟.	1
+◟The skandhas◞ belong to ⌞conditioned existence⌟.	2
+The ◟sage◞ has ⌞equanimity⌟.	3
+◟Attachment◞ causes ⌞sorrow⌟.	4
+◟Joy◞ results from ⌞practice⌟.	5
+The ◟bodhisattva◞ uses ⌞dana generosity⌟.	6
+The ◟vinaya rules◞ are be used by ⌞disciples⌟.	7
+◟Delusion◞ and ⌞awakening⌟ are not one.	0
+◟Awareness◞ equals ⌞knowing mind⌟.	1
+◟The five desires◞ belong to ⌞the world of form⌟.	2
+The ◟body◞ has ⌞breath⌟.	3
+◟Karma◞ causes ⌞results⌟.	4
+◟Clarity◞ results from ⌞stilling thought⌟.	5
+The ◟monk◞ uses ⌞alms bowl⌟.	6
+The ◟teachings◞ are be used by ⌞students⌟.	7
+◟Form◞ and ⌞emptiness⌟ are not equals.	0
+◟Wisdom◞ equals ⌞insight⌟.	1
+◟The eyes◞ belong to ⌞the body⌟.	2
+The ◟practitioner◞ has ⌞precepts⌟.	3
+◟Ignorance◞ causes ⌞error⌟.	4
+◟Peace◞ results from ⌞right view⌟.	5
+The ◟sage◞ uses ⌞meditation⌟.	6
+The ◟scriptures◞ are be used by ⌞monks⌟.	7
+◟Birth◞ and ⌞death⌟ are not equal.	0
+◟Perception◞ equals ⌞knowing contact⌟.	1
+◟The ear◞ belongs to ⌞the six roots⌟.	2
+The ◟bodhisattva◞ has ⌞vows⌟.	3
+◟Desire◞ causes ⌞clinging⌟.	4
+◟Freedom◞ results from ⌞letting go⌟.	5
+The ◟disciple◞ uses ⌞faith⌟.	6
+The ◟sutra words◞ are be used by ⌞the assembly⌟.	7
+◟Dreams◞ and ⌞illusions⌟ are not equals.	0
+◟Mind◞ equals ⌞awareness essence⌟.	1
+◟The senses◞ belong to ⌞the body⌟.	2
+The ◟sage◞ has ⌞compassion⌟.	3
+◟Attachment◞ causes ⌞fear and craving⌟.	4
+◟Calmness◞ results from ⌞discipline⌟.	5
+The ◟bodhisattva◞ uses ⌞mindfulness⌟.	6
+The ◟chants of sutra◞ are be used by ⌞followers⌟.	7
